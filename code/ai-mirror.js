@@ -246,3 +246,6 @@ const hyperParameter = {
   image: "https://i.pinimg.com/736x/92/24/9a/92249ad035a368a1835feba32f66a484.jpg"
 }
 create(hyperParameter, 7, true).then(result => console.log("[create] Final result:", result));
+
+// List Model 
+// https://raw.githubusercontent.com/Fahmi-XD/scraping/refs/heads/main/Complete/AIMirror/model.json
